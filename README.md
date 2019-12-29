@@ -25,14 +25,14 @@
   * No thinking in philosophy, No direction in action.
 
  ### 1.7 浏览地址
-  * 登录[https://hkc.io](https://hkc.io)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此提起Issue](https://github.com/CHCP/hkc-docs/issues)，我们会认真对待讨论。
+  * 登录[https://hkc.io](https://hkc.io)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc-docs/issues)，我们会认真对待。
 
  ## <h2 id="2">二、HKC介绍</h2>
  #### 2.1 思想领先
 
  ## <h2 id="3">三、联系方式</h2>
   * 重要事项请通过邮件联系：customerservice@toolmaker.com.cn；
-  * 新增或修改HKC条目可以通过讨论[Github Issues](https://github.com/CHCP/hkc-docs/issues)；
+  * 新增或修改HKC条目可以[在此讨论](https://github.com/CHCP/hkc-docs/issues)；
   * 加入微信讨论群：请先加个人微信号（wxn1790343904），然后由管理员拉入微信讨论群，加入时请注明“Toolmaker”；
   * 加入QQ讨论群：150129626，加入时请注明“Toolmaker”；
   * 请关注我们的微信公众号：微信公众号搜索"CHCP"；或者扫描下方二维码关注：
