@@ -25,7 +25,7 @@
   * No thinking in philosoph, No direction for action.
 
  ### 1.7 浏览地址
-  * 登录[https://hkc.wiki](https://hkc.wiki)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc-docs/issues)，我们会认真讨论。
+  * 登录[https://hkc.wiki](https://hkc.wiki)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc-docs/issues)，我们会认真对待。
 
  ## <h2 id="2">二、HKC介绍</h2>
  ### 2.1 缘起
@@ -59,8 +59,8 @@
  ## <h2 id="3">三、联系方式</h2>
   * 重要事项请通过邮件联系：customerservice@toolmaker.com.cn；
   * 新增或修改HKC条目可以[在此讨论](https://github.com/CHCP/hkc-docs/issues)；
-  * 加入微信讨论群：请先加个人微信号（wxn1790343904），然后由管理员拉入微信讨论群，加入时请注明“Toolmaker”；
-  * 加入QQ讨论群：150129626，加入时请注明“Toolmaker”；
+  * 加入微信讨论群：请先加个人微信号（wxn1790343904），然后由管理员拉入微信讨论群，加入时请注明“HKC”；
+  * 加入QQ讨论群：150129626，加入时请注明“HKC”；
   * 请关注我们的微信公众号：微信公众号搜索"CHCP"；或者扫描下方二维码关注：
 
     ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=144&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
