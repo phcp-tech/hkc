@@ -25,7 +25,7 @@
   * No thinking in philosoph, No direction for action.
 
  ### 1.7 浏览地址
-  * 登录[https://hkc.wiki](https://hkc.wiki)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc-docs/issues)，我们会认真对待。
+  * 登录[https://zhishi.io](https://zhishi.io)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc-docs/issues)，我们会认真对待。
 
  ## <h2 id="2">二、HKC介绍</h2>
  ### 2.1 缘起
