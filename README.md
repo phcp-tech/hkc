@@ -4,8 +4,6 @@
  * [一、HKC是什么](#1)
  * [二、HKC介绍](#2)
  * [三、联系方式](#3)
- * [四、投资与募捐](#4)
- * [五、致谢](#5)
 
  ## <h2 id="1">一、HKC是什么</h2>
  ### 1.1 HKC是什么
@@ -25,7 +23,7 @@
   * No thinking in philosoph, No direction for action.
 
  ### 1.7 浏览地址
-  * 登录[https://zhishi.io](https://zhishi.io)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc-docs/issues)，我们会认真对待。
+  * 登录[https://zhishi.io](https://zhishi.io)，目前只提供HKC分类浏览功能，如果想新增或修改HKC条目，请[在此讨论](https://github.com/CHCP/hkc/issues)，我们会认真对待。
 
  ## <h2 id="2">二、HKC介绍</h2>
  ### 2.1 缘起
@@ -57,17 +55,9 @@
 
  ## <h2 id="3">三、联系方式</h2>
   * 重要事项请通过邮件联系：customerservice@toolmaker.com.cn；
-  * 新增或修改HKC条目可以[在此讨论](https://github.com/CHCP/hkc-docs/issues)；
+  * 新增或修改HKC条目可以[在此讨论](https://github.com/CHCP/hkc/issues)；
   * 加入QQ讨论群：150129626，加入时请注明“HKC”；
   * 请关注我们的微信公众号：微信公众号搜索"CHCP"；或者扫描下方二维码关注：
 
     ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=144&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
  
- ## <h2 id="4">八、投资与捐款</h2>
-  * 为了能使产品得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请邮件联系。
-  * 如果您觉得HKC思想还不错，愿意支持我们，可以按照如下方式进行捐款，捐款所得款项将用来支付购买云计算费用，宣传广告，以及开发过程中的各种成本支出，我们非常感谢您的支持。
-  
-    ![Preivew](images/wechatpay-unlimited.png)      ![Preivew](images/alipay-unlimited.png)
-    
- ## <h2 id="5">九、致谢</h2>
-  * 感谢团队开发成员，感谢他们对产品的热情付出和精湛的专业技能。
