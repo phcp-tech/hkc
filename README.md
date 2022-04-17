@@ -4,7 +4,7 @@
  * [一、HKC是什么](#1)
  * [二、HKC介绍](#2)
  * [三、附件](#3)
- * [三、联系方式](#4)
+ * [四、联系方式](#4)
 
  ## <h2 id="1">一、HKC是什么</h2>
  ### 1.1 HKC是什么
@@ -67,9 +67,9 @@
 
   * HKC Chrome书签。按照HKC分类法建立的Chrome书签（html文件），可以通过Chrome/Bookmarks/Bookmark manager/Import Bookmarks导入使用。提供中英文两种版本。
 
-      <a href="docs/attachments/hkc-bookmarks-chrome-chinese-version.zip" target="_blank">HKC Chrome书签-中文</a>
+      <a href="docs/attachments/hkc-bookmarks-chrome-chinese-version.html" target="_blank">HKC Chrome书签-中文</a>
 
-      <a href="docs/attachments/hkc-bookmarks-chrome-english-version.zip" target="_blank">HKC Chrome Bookmarks-English</a>
+      <a href="docs/attachments/hkc-bookmarks-chrome-english-version.html" target="_blank">HKC Chrome Bookmarks-English</a>
 
       ![Preivew](docs/images/hkc-bookmarks-chinese-version.png) 
       ![Preivew](docs/images/hkc-bookmarks-english-version.png) 
