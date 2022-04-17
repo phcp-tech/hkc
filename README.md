@@ -3,7 +3,8 @@
 # 目录
  * [一、HKC是什么](#1)
  * [二、HKC介绍](#2)
- * [三、联系方式](#3)
+ * [三、附件](#3)
+ * [三、联系方式](#4)
 
  ## <h2 id="1">一、HKC是什么</h2>
  ### 1.1 HKC是什么
@@ -53,7 +54,27 @@
 
  ### 2.3 To be continue...
 
- ## <h2 id="3">三、联系方式</h2>
+ ## <h2 id="3">三、附件</h2>
+  * HKC文件夹。按照HKC分类法建立的文件夹（zip压缩包），可以在Windows，Linux，MacOS上解压缩后使用，用于个人本地文件分类保存使用。提供中英文两种版本。
+
+      <a href="docs/attachments/hkc-folder-chinese-version.zip" target="_blank">HKC文件夹-中文</a>
+
+      <a href="docs/attachments/hkc-folder-english-version.zip" target="_blank">HKC Folder English</a>
+
+      ![Preivew](docs/images/hkc-folder-chinese-version.png) 
+      ![Preivew](docs/images/hkc-folder-english-version.png) 
+
+
+  * HKC Chrome书签。按照HKC分类法建立的Chrome书签（html文件），可以通过Chrome/Bookmarks/Bookmark manager/Import Bookmarks导入使用。提供中英文两种版本。
+
+      <a href="docs/attachments/hkc-bookmarks-chrome-chinese-version.zip" target="_blank">HKC Chrome书签-中文</a>
+
+      <a href="docs/attachments/hkc-bookmarks-chrome-english-version.zip" target="_blank">HKC Chrome Bookmarks-English</a>
+
+      ![Preivew](docs/images/hkc-bookmarks-chinese-version.png) 
+      ![Preivew](docs/images/hkc-bookmarks-english-version.png) 
+
+ ## <h2 id="4">四、联系方式</h2>
   * 重要事项请通过邮件联系：support@toolmaker.io；
   * 新增或修改HKC条目可以[在此讨论](https://github.com/CHCP/hkc/issues)；
   * 加入QQ讨论群：150129626，加入时请注明“HKC”；
