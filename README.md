@@ -57,9 +57,9 @@
  ## <h2 id="3">三、附件</h2>
   * HKC文件夹。按照HKC分类法建立的文件夹（zip压缩包），可以在Windows，Linux，MacOS上解压缩后使用，用于个人本地文件分类保存使用。提供中英文两种版本。
 
-      <a href="docs/attachments/hkc-folder-chinese-version.zip" target="_blank">HKC文件夹-中文</a>
+      <a href="attachments/hkc-folder-chinese-version.zip" target="_blank">HKC文件夹-中文</a>
 
-      <a href="docs/attachments/hkc-folder-english-version.zip" target="_blank">HKC Folder English</a>
+      <a href="attachments/hkc-folder-english-version.zip" target="_blank">HKC Folder English</a>
 
       ![Preivew](docs/images/hkc-folder-chinese-version.png) 
       ![Preivew](docs/images/hkc-folder-english-version.png) 
@@ -67,9 +67,9 @@
 
   * HKC书签。按照HKC分类法建立的书签（html文件），可以通过Chrome/Bookmarks/Bookmark manager/Import Bookmarks导入使用；或者Fixfox/Bookmarks/Manage bookmarks/Import Bookmarks from Html导入使用。提供中英文两种版本。
 
-      <a href="docs/attachments/hkc-bookmarks-chinese-version.html" target="_blank">HKC书签-中文</a>
+      <a href="attachments/hkc-bookmarks-chinese-version.html" target="_blank">HKC书签-中文</a>
 
-      <a href="docs/attachments/hkc-bookmarks-english-version.html" target="_blank">HKC Bookmarks-English</a>
+      <a href="attachments/hkc-bookmarks-english-version.html" target="_blank">HKC Bookmarks-English</a>
 
       ![Preivew](docs/images/hkc-bookmarks-chinese-version.png) 
       ![Preivew](docs/images/hkc-bookmarks-english-version.png) 
