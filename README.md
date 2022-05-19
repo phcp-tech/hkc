@@ -69,7 +69,7 @@
 
       <a href="attachments/hkc-bookmark-zh.zip" target="_blank">HKC书签-中文</a>
 
-      <a href="attachments/hkc-bookmark-en.zip" target="_blank">HKC Bookmarks-English</a>
+      <a href="attachments/hkc-bookmark-en.zip" target="_blank">HKC Bookmark-English</a>
 
       ![Preivew](docs/images/hkc-bookmark-zh.png) 
       ![Preivew](docs/images/hkc-bookmark-en.png) 
