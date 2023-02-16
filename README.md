@@ -55,6 +55,8 @@
  ### 2.3 To be continue...
 
  ## <h2 id="3">三、附件</h2>
+  * 附件可以通过如下链接获得，或者跳转到链接[HKC WIKI](https://hkc.wiki)，点击"下载"按钮后解压缩使用。
+
   * HKC文件夹。按照HKC分类法建立的文件夹（zip压缩包），可以在Windows，Linux，MacOS上解压缩后使用，用于个人本地文件分类保存使用。提供中英文两种版本。
 
       <a href="attachments/hkc-folder-zh.zip" target="_blank">HKC文件夹-中文</a>
