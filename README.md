@@ -1,4 +1,4 @@
-简体中文 12 | [English](./README.english.md)
+简体中文 | [English](./README.english.md)
 
 # 目录
 
@@ -31,11 +31,7 @@
 
 ### 1.7 浏览地址
 
-<<<<<<< HEAD
-
-- # 登录[https://hkc.wiki](https://hkc.wiki)，目前只提供 HKC 分类浏览功能，如果想新增或修改 HKC 条目，请[在此讨论](https://github.com/CHCP/hkc/issues)，我们会认真对待。
 - 登录[https://hkc.wiki](https://hkc.wiki)，目前只提供 HKC 分类浏览功能，如果想新增或修改 HKC 条目，请[在此讨论](https://github.com/phcp-tech/hkc/issues)，我们会认真对待。
-  > > > > > > > 2107bc453ef9c1f64d55a040954db65eaf8cef7d
 
 ## <h2 id="2">二、HKC 介绍</h2>
 
@@ -75,11 +71,7 @@
 
 ## <h2 id="3">三、附件</h2>
 
-# <<<<<<< HEAD
-
 - 附件可以通过如下链接获得，或者跳转到链接[HKC WIKI](https://hkc.wiki)，点击"下载"按钮后解压缩使用。
-
-> > > > > > > 2107bc453ef9c1f64d55a040954db65eaf8cef7d
 
 - HKC 文件夹。按照 HKC 分类法建立的文件夹（zip 压缩包），可以在 Windows，Linux，MacOS 上解压缩后使用，用于个人本地文件分类保存使用。提供中英文两种版本。
 
@@ -102,14 +94,8 @@
 ## <h2 id="4">四、联系方式</h2>
 
 - 重要事项请通过邮件联系：support@toolmaker.io；
-  <<<<<<< HEAD
-- 新增或修改 HKC 条目可以[在此讨论](https://github.com/CHCP/hkc/issues)；
-- 加入 QQ 讨论群：150129626，加入时请注明“HKC”；
-- # 请关注我们的微信公众号：微信公众号搜索"CHCP"；或者扫描下方二维码关注：
 - 新增或修改 HKC 条目可以[在此讨论](https://github.com/phcp-tech/hkc/issues)；
 - 加入 QQ 讨论群：150129626，加入时请注明“HKC”；
 - 请关注我们的微信公众号：微信公众号搜索"PHCP"；或者扫描下方二维码关注：
-
-  > > > > > > > 2107bc453ef9c1f64d55a040954db65eaf8cef7d
 
   ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=144&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
