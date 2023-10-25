@@ -1,4 +1,4 @@
-简体中文 12 | [English](./README.english.md)
+简体中文 | [English](./README.english.md)
 
 # 目录
 
