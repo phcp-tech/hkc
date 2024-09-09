@@ -1,6 +1,6 @@
 {
     "name": "HKC Name: Simplified Chinese",
-    "languages": ["zh-hans"],
+    "language": "zh-hans",
     "author": "PHCP Tech",
     "website": "https://hkc.wiki",
     "version": "0.1.0",

@@ -1,6 +1,6 @@
 {
     "name": "HKC Name: American English",
-    "languages": ["en-us"],
+    "language": "en-us",
     "author": "PHCP Tech",
     "website": "https://hkc.wiki",
     "version": "0.1.0",
