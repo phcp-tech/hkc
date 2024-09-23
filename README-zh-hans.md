@@ -75,18 +75,18 @@
 
 - HKC 文件夹。按照 HKC 分类法建立的文件夹（zip 压缩包），可以在 Windows，Linux，MacOS 上解压缩后使用，用于个人本地文件分类保存使用。提供中英文两种版本。
 
-  <a href="attachments/hkc-folder-zh.zip" target="_blank">HKC 文件夹-中文</a>
+  <a href="attachments/hkc-folder-zh-hans.zip" target="_blank">HKC 文件夹-中文</a>
 
-  <a href="attachments/hkc-folder-en.zip" target="_blank">HKC Folder English</a>
+  <a href="attachments/hkc-folder-en-us.zip" target="_blank">HKC Folder English</a>
 
   ![Preivew](docs/images/hkc-folder-zh.png)
   ![Preivew](docs/images/hkc-folder-en.png)
 
 - HKC 书签。按照 HKC 分类法建立的书签（html 文件），可以通过 Chrome/Bookmarks/Bookmark manager/Import Bookmarks 导入使用；或者 Fixfox/Bookmarks/Manage bookmarks/Import Bookmarks from Html 导入使用。提供中英文两种版本。
 
-  <a href="attachments/hkc-bookmark-zh.zip" target="_blank">HKC 书签-中文</a>
+  <a href="attachments/hkc-bookmark-zh-hans.zip" target="_blank">HKC 书签-中文</a>
 
-  <a href="attachments/hkc-bookmark-en.zip" target="_blank">HKC Bookmark-English</a>
+  <a href="attachments/hkc-bookmark-en-us.zip" target="_blank">HKC Bookmark-English</a>
 
   ![Preivew](docs/images/hkc-bookmark-zh.png)
   ![Preivew](docs/images/hkc-bookmark-en.png)
