@@ -129,7 +129,7 @@
         {"code": "152", "name": "Shiah", "intro": "The second-largest denomination of Islam, believing in the leadership of Ali and his descendants as the rightful successors to Muhammad."},
         {"code": "171", "name": "Taoism", "intro": "A philosophical and religious tradition from China emphasizing living in harmony with the Tao, or the fundamental nature of the universe."},
         {"code": "172", "name": "Shintoism", "intro": "The traditional religion of Japan, focusing on ritual practices to connect with kami, or spirits associated with natural elements."},
-        {"code": "173", "name": "Sikhs", "intro": "The followers of Sikhism, a monotheistic religion founded in the Punjab region of India, emphasizing equality, service, and devotion."},
+        {"code": "173", "name": "Sikhism", "intro": "Sikhism is a monotheistic religion founded in the Punjab region of India, emphasizing equality, service, and devotion."},
         {"code": "211", "name": "Sexes", "intro": "The study of gender differences, roles, and identities within various cultural and social contexts."},
         {"code": "212", "name": "Marriage", "intro": "The study of the institution of marriage, its cultural significance, and the dynamics of marital relationships."},
         {"code": "213", "name": "Parenting", "intro": "The study of child-rearing practices, parental roles, and the impact of parenting on child development."},
