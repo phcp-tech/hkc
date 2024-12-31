@@ -212,7 +212,7 @@
         {"code": "473", "name": "Sports Classification", "intro": "The study of categorizing sports based on various criteria, exploring their significance and organization."},
         {"code": "474", "name": "Sports Games", "intro": "The study of competitive physical activities, exploring their rules, organization, and cultural significance."},
         {"code": "481", "name": "Chinese Cross Talk", "intro": "A traditional Chinese comedic performance art that involves witty dialogue and storytelling."},
-        {"code": "482", "name": "Indian Song and Dance", "intro": "The study of traditional Indian performance arts that combine music and dance, exploring cultural significance and styles."}
+        {"code": "482", "name": "Indian Song and Dance", "intro": "The study of traditional Indian performance arts that combine music and dance, exploring cultural significance and styles."},
         {"code": "511", "name": "Pure Mathematics", "intro": "The study of mathematical concepts independent of any application outside mathematics, focusing on abstract structures and theoretical frameworks."},
         {"code": "512", "name": "Discrete Mathematics", "intro": "The branch of mathematics dealing with discrete elements that uses algebra and arithmetic, including topics such as graph theory and combinatorics."},
         {"code": "513", "name": "Applied Mathematics", "intro": "The application of mathematical methods by different fields such as science and engineering, focusing on practical problems and solutions."},
@@ -292,7 +292,7 @@
         {"code": "692", "name": "Astronautics", "intro": "The study of space travel and exploration, including the design and operation of spacecraft."},
         {"code": "693", "name": "Spacecraft", "intro": "The study of vehicles designed for travel or operation in outer space, focusing on engineering and technology."},
         {"code": "6A1", "name": "Warp Drive", "intro": "The theoretical study of faster-than-light travel technology, exploring concepts and implications for space exploration."},
-        {"code": "700.1", "name": "West World", "intro": "The exploration of themes and narratives in the context of Western civilization and culture."},
+        {"code": "700.1", "name": "West World", "intro": "The science fiction film and television series \"West world\" explores the conflict and development between humans and intelligent robots in the future world."},
         {"code": "700.2", "name": "Frankenstein", "intro": "The study of Mary Shelley's novel and its themes of creation, responsibility, and the consequences of scientific exploration."},
         {"code": "700.3", "name": "The Expanse", "intro": "The exploration of the science fiction series, focusing on its themes of politics, society, and space exploration."},
         {"code": "700.4", "name": "Lama Civilization", "intro": "The study of fictional civilizations in literature and media, exploring their cultural and societal structures."},
