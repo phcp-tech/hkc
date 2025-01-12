@@ -33,7 +33,7 @@
         {"code": "080", "name": "", "intro": ""},
         {"code": "090", "name": "", "intro": ""},
         {"code": "110", "name": "Hinduism", "intro": "A major world religion originating in the Indian subcontinent, characterized by a variety of beliefs, practices, and rituals."},
-        {"code": "120", "name": "Biblical Faiths", "intro": "Religious beliefs that are closely related to the Bible include Judaism, which believes in the Old Testament, and Christianity, Catholicism, and Orthodoxy, which believe in the New Testament."},
+        {"code": "120", "name": "Biblical Faiths", "intro": "Religious beliefs that are closely related to the Bible include Judaism, which believes in the Old Testament, and Catholicism, Orthodoxy and Protestantism, which believe in the New Testament."},
         {"code": "130", "name": "Buddhism", "intro": "A spiritual tradition focusing on personal spiritual development and the attainment of a deep insight into the true nature of life."},
         {"code": "140", "name": "Islam", "intro": "A monotheistic faith revealed through the Prophet Muhammad, emphasizing submission to the will of Allah and the teachings of the Quran."},
         {"code": "150", "name": "Bahai", "intro": "A religion emphasizing the spiritual unity of all humankind and the importance of world peace and justice."},
