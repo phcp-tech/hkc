@@ -1,7 +1,7 @@
 {
     "name": "HKC",
-    "languages": ["zh-hans","en-us"],
     "intro": "HKC is a human-centered knowledge classification method.",
+    "languages": ["zh-hans","en-us"],
     "author": "PHCP Tech",
     "website": "https://hkc.wiki",
     "version": "0.1.0",
