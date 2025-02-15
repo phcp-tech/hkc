@@ -298,6 +298,8 @@
         {"pcode": "700", "code": "700.7", "relationship": "H4", "layer": 3, "kind": "subject", "status": 1, "tag": ""},
         {"pcode": "740", "code": "741", "relationship": "H4", "layer": 3, "kind": "subject", "status": 1, "tag": ""},
         {"pcode": "740", "code": "742", "relationship": "H4", "layer": 3, "kind": "subject", "status": 1, "tag": ""},
+        {"pcode": "750", "code": "751", "relationship": "H4", "layer": 3, "kind": "subject", "status": 1, "tag": ""},
+        {"pcode": "760", "code": "761", "relationship": "H4", "layer": 3, "kind": "subject", "status": 1, "tag": ""},
         {"pcode": "021", "code": "021.1", "relationship": "H0", "layer": 4, "kind": "domain", "status": 2, "tag": "business"},
         {"pcode": "132", "code": "132.0", "relationship": "H1", "layer": 4, "kind": "domain", "status": 1, "tag": "business"},
         {"pcode": "132", "code": "132.1", "relationship": "H1", "layer": 4, "kind": "domain", "status": 1, "tag": "business"},
