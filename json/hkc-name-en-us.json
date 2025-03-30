@@ -349,6 +349,7 @@
         {"code": "638.6", "name": "Composite Material", "intro": "The study of composite materials, which are made from two or more constituent materials, focusing on their properties and applications."},
         {"code": "638.7", "name": "Nano Material", "intro": "The study of materials at the nanoscale, focusing on their unique properties and potential applications in technology and medicine."},
         {"code": "66B.1", "name": "Nuclear Fusion(FIR)", "intro": "The study of nuclear fusion processes and their potential for energy production."},
+        {"code": "682.0", "name": "Introduction", "intro": "Introduces computer fundamentals, covering hardware, software, operating systems, networking, and basic programming, helping understand how computers work."},
         {"code": "682.1", "name": "Operating System", "intro": "The study of software that manages computer hardware and software resources."},
         {"code": "682.2", "name": "Programming Language", "intro": "The study of formal languages used to communicate instructions to a computer."},
         {"code": "682.3", "name": "Software Engineering", "intro": "The study of the principles and practices of software development."},

@@ -357,6 +357,7 @@
         {"pcode": "638", "code": "638.6", "relationship": "H3", "layer": 4, "kind": "subject", "status": 1, "tag": "business"},
         {"pcode": "638", "code": "638.7", "relationship": "H3", "layer": 4, "kind": "subject", "status": 1, "tag": "business"},
         {"pcode": "66B", "code": "66B.1", "relationship": "H3", "layer": 4, "kind": "domain", "status": 1, "tag": "business"},
+        {"pcode": "682", "code": "682.0", "relationship": "H3", "layer": 4, "kind": "domain", "status": 2, "tag": "business"},
         {"pcode": "682", "code": "682.1", "relationship": "H3", "layer": 4, "kind": "domain", "status": 2, "tag": "business"},
         {"pcode": "682", "code": "682.2", "relationship": "H3", "layer": 4, "kind": "domain", "status": 2, "tag": "business"},
         {"pcode": "682", "code": "682.3", "relationship": "H3", "layer": 4, "kind": "domain", "status": 2, "tag": "business"},
