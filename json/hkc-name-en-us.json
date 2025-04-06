@@ -171,7 +171,7 @@
         {"code": "333", "name": "Journalism", "intro": "The practice of gathering, assessing, creating, and presenting news and information to the public."},
         {"code": "341", "name": "Biological Anthropology", "intro": "The study of the biological and evolutionary aspects of humans, including genetics and human evolution."},
         {"code": "342", "name": "Linguistic Anthropology", "intro": "The study of how language influences social life, exploring the relationship between language and culture."},
-        {"code": "341", "name": "Cultural Anthropology", "intro": "The study of cultural variation among humans, examining social practices, beliefs, and values."},
+        {"code": "343", "name": "Cultural Anthropology", "intro": "The study of cultural variation among humans, examining social practices, beliefs, and values."},
         {"code": "344", "name": "Archeology", "intro": "The study of human history and prehistory through excavation and analysis of artifacts, structures, and other physical remains."},
         {"code": "351", "name": "Chinese Saint Culture", "intro": "The study of the cultural and religious practices surrounding saints in Chinese tradition."},
         {"code": "352", "name": "Brazil Carnival", "intro": "The study of the cultural significance and practices associated with the Brazilian Carnival, a major festival."},

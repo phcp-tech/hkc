@@ -378,7 +378,7 @@
         {"pcode": "413.1", "code": "413.1.3", "relationship": "H2", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
         {"pcode": "413.1", "code": "413.1.4", "relationship": "H2", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
         {"pcode": "413.1", "code": "413.1.5", "relationship": "H2", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
-        {"pcode": "638.7", "code": "638.7.1", "relationship": "H3", "layer": 5, "kind": "domain", "status": 1, "tag": "business"},
+        {"pcode": "638.7", "code": "638.7.1", "relationship": "H3", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
         {"pcode": "682.1", "code": "682.1.1", "relationship": "H3", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
         {"pcode": "682.1", "code": "682.1.2", "relationship": "H3", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
         {"pcode": "682.1", "code": "682.1.3", "relationship": "H3", "layer": 5, "kind": "subdomain", "status": 1, "tag": "business"},
