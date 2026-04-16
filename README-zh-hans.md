@@ -210,9 +210,9 @@ HKC 采用点分十六进制编码，以便做到最大限度的扩展。
 
 - [ ] A：表示**知识体系（System）**，例如 0 代表哲学，1 代表宗教，6代表技术，最大可以表示为F，即000，100，600，F00；
 
-- [ ] B：表示A知识体系下的**行业（Industry）**，例如技术分类 600 中，8代表信息与通讯行业，即680；最大可以表示为F，即6F0；
+- [ ] B：表示A知识体系下的**门类（Category）**，例如技术分类 600 中，8代表信息与通讯行业，即680；最大可以表示为F，即6F0；
 
-- [ ] C：代表B行业下的**学科（Subject）**，例如信息与通讯行业 680 中，2代表计算机学科，即682；最大可以表示为F，即68F；
+- [ ] C：代表B行业下的**学科（Discipline）**，例如信息与通讯行业 680 中，2代表计算机学科，即682；最大可以表示为F，即68F；
 
 - [ ] X：代表C学科下的**领域（Domain）**，例如计算机 682 中，3 代表软件工程领域，即682.3，最大值为255；
 
@@ -222,7 +222,7 @@ HKC 采用点分十六进制编码，以便做到最大限度的扩展。
 
 
 HKC 编码架构对应关系：
-![](https://ar-io.net/59fBmqPVtrdgOaRgXn0aYrkObQSxKgM0KcQG-Eep2tU)
+![](https://arweave.net/-fge4rSEXoGHed--_pIbIWIMUhSuqwdGKYJfx6KsvUs)
 
 
 ## 5 HKC 使用范围
@@ -246,9 +246,7 @@ HKC 以人为中心的分类原则，是我在阅读《金刚经》时偶然获�
 
 **关联阅读**
 
-[1] 领域知识介绍：[https://zhishi.io/resources/Ling-Yu-Zhi-Shi-Jie-Shao-2evWhR5xZ](https://zhishi.io/resources/Ling-Yu-Zhi-Shi-Jie-Shao-2evWhR5xZ)
-
-[2] KCMM 介绍: [https://zhishi.io/resources/KCMM-Jie-Shao-2evVBffeDs](https://zhishi.io/resources/KCMM-Jie-Shao-2evVBffeDs)
+领域知识介绍：[https://zhishi.io/articles/Uysieha2evWhR5xZ](https://zhishi.io/articles/Uysieha2evWhR5xZ)
 
 
 **参考资料**
