@@ -3,7 +3,7 @@ English | [简体中文](./README-zh-hans.md)
 # HKC: Human Knowledge Classification
 
 
-HKC is a human-centered knowledge classification method defined by identifying the relationship between human and ego(Philosophy), human and gods(Religion), human and human(Society/Culture/Art), human and nature(Science/Technology).
+HKC is a human-centered knowledge classification method defined by identifying the relationship between Human and the Self(Philosophy), Human and the Divine(Religion), Human and Human(Society/Culture/Art), Human and Nature(Science/Technology).
 
 
 ## 1 Definition of knowledge
@@ -23,15 +23,15 @@ Currently, different countries in the world use different book classification me
 
 Based on UDC, we have created a new classification method, referred to as **HKC (Human Knowledge Classification)**, which is not only suitable for book classification, but also to meet the requirements of current information development, preparing for the future dissemination of human civilization.
 
-The classification principle of HKC is human-centered, distinguishing the relationship between human and external objects, and classifying according to the relationship between human and themselves, human and gods, human and human, and human and nature:
+The classification principle of HKC is human-centered, distinguishing the relationship between human and external objects, and classifying according to the relationship between Human and the Self, Human and the Divine, Human and Human, and Human and Nature:
 
-**Relationship between human and ego**: one is the only person who is respected from heaven to earth. If one loses themself, the world will not exist and there will be no meaning for it. This category covers philosophy, epistemology, psychology, self-achievement, etc., which are purely individual experiences and feelings;
+**Relationship between Human and the Self**: one is the only person who is respected from heaven to earth. If one loses themself, the world will not exist and there will be no meaning for it. This category covers philosophy, epistemology, psychology, self-achievement, etc., which are purely individual experiences and feelings;
 
-**Relationship between human and gods**: Considering the huge impact of religions on human society, and to not make too much changes to the original UDC classification method, a separate relationship was established, that is, the relationship between human and gods. A separate category was reserved for religion;
+**Relationship between Human and the Divine**: Considering the huge impact of religions on human society, and to not make too much changes to the original UDC classification method, a separate relationship was established, that is, the relationship between human and the Divine. A separate category was reserved for religion;
 
-**Relationship between human and human**: growth up, one first comes into contact with parents and family, then schools, society, and nation. All these are intertwined with relationships between people. In fact, it is sociology;
+**Relationship between Human and Human**: growth up, one first comes into contact with parents and family, then schools, society, and nation. All these are intertwined with relationships between people. In fact, it is sociology;
 
-**Relationship between human and nature**: This part of the content can be classified as natural science and technology.
+**Relationship between Human and Nature**: This part of the content can be classified as natural science and technology.
 
 
 
@@ -41,7 +41,7 @@ The specifics of the HKC classification method is as follows, generally followin
 
 HKC uses the following principles for sorting classifications: chronological order, causal relationship, level of importance.
 
-### 3.1 H0: The relationship between human and ego
+### 3.1 H0: The relationship between Human and the Self
 
 Sorted causally.
 
@@ -61,7 +61,7 @@ Sorted causally.
 
 070: Vijnanavada: This is a new classification added to the philosophy category. Buddhist Vijnanavada has a huge and irreplaceable role in understanding the world and knowing oneself.
 
-### 3.2 H1：The relationship between human and gods
+### 3.2 H1：The relationship between Human and the Divine
 
 Sorted chronologically in the order of religions' emergences.
 
@@ -79,10 +79,10 @@ Sorted chronologically in the order of religions' emergences.
 
 170: National Religion
 
-[Note] According to HKC's definition of religion, the problem raised by Matteo Ricci, an Italian Catholic missionary who came to China in the 17th century, can be solved. That is, "Is Confucianism a religion?"<sup>[5]</sup>, which has caused many debates in the academic world. In fact, the answer is very direct and simple: Confucianism is not a religion since it focuses not on the relationship between human and gods, but on the relationship between human and human.
+[Note] According to HKC's definition of religion, the problem raised by Matteo Ricci, an Italian Catholic missionary who came to China in the 17th century, can be solved. That is, "Is Confucianism a religion?"<sup>[5]</sup>, which has caused many debates in the academic world. In fact, the answer is very direct and simple: Confucianism is not a religion since it focuses not on the relationship between human and the Divine, but on the relationship between human and human.
 
 
-### 3.3 H2：The relationship between human and human
+### 3.3 H2：The relationship between Human and Human
 
 Sorted causally. This category occupies 3 major categories numbered 3/4/5, which are society/culture/art. The UDC cultural and artistic classification numbering are 8 and 7, which have been adjusted here.
 
@@ -142,7 +142,7 @@ Sorted in chronological order of emergence.
 480: National Art
 
 
-### 3.4 H3: The relationship between human and nature
+### 3.4 H3: The relationship between Human and Nature
 
 This category is divided into science and technology, and reserving a major category for future technologies.
 
@@ -185,11 +185,11 @@ Sorted in chronological order of emergence.
 690: Aerospace 
 
 
-### 3.5 H4: The relationship between human and new civilizations
+### 3.5 H4: The relationship between Human and New Civilization
 
 With the development of human technology, artificially created life forms and artificial intelligence life forms will appear. The civilizations developed by these two life forms will inevitably develop relations with humans. These two relationships cannot be included in any of the above relationships.
 
-In addition, there is a kind of relationship-corresponding object in nature that is currently unknown to humans and it is uncertain whether it exists or not, that is, extraterrestrial life. This kind of relationship cannot be classified into any of the above categories: they are not humans and cannot be classified as human-to-human relationships; they are not gods, in a sense they are equal to humans, not gods who created humans, so they cannot be classified as human-to-god relationships; they are also not ruthless in nature, they are sentient beings but have different origins from humans, so they cannot be classified as human-to-nature relationships.
+In addition, there is a kind of relationship-corresponding object in nature that is currently unknown to humans and it is uncertain whether it exists or not, that is, extraterrestrial life. This kind of relationship cannot be classified into any of the above categories: they are not humans and cannot be classified as human-to-human relationships; they are not gods, in a sense they are equal to humans, not gods who created humans, so they cannot be classified as human-to-the-Divine relationships; they are also not ruthless in nature, they are sentient beings but have different origins from humans, so they cannot be classified as human-to-nature relationships.
 
 Based on these two reasons, a new kind of relationship was established: relationship between human and new civilization.
 
@@ -213,18 +213,18 @@ The format is ABC.X.Y, with a total of 5 levels. The first three levels are hexa
 
 - [ ] A: Represents Knowledge  **(System)**, for example, 0 represents philosophy, 1 represents religion, 6 represents technology, and the maximum can be represented as F, that is, 000, 100, 600, F00;
 
-- [ ] B: Represents the industry under A's system **(Industry)**, for example, in the technology category 600, 8 represents the information and communication industry, that is, 680; the maximum can be represented as F, that is, 6F0;
+- [ ] B: Represents the category under A's system **(Category)**, for example, in the technology category 600, 8 represents the information and communication industry, that is, 680; the maximum can be represented as F, that is, 6F0;
 
-- [ ] C: Represents the subject under B's industry **(Subject)**, for example, in the information and communication industry 680, 2 represents computer science, that is, 682; the maximum can be represented as F, that is, 68F;
+- [ ] C: Represents the discipline  under B's industry **(Discipline)**, for example, in the information and communication industry 680, 2 represents computer science, that is, 682; the maximum can be represented as F, that is, 68F;
 
 - [ ] X: Represents the domain under C's subject **(Domain)**. For example, in computer science 682, 3 represents software engineering domain, that is, 682.3. The maximum value is 255;
 
 - [ ] Y: Represents the subdomain under X's domain **(Subdomain)**. For example, in software engineering 682.3, 2 represents requirement analysis, that is, 682.3.2. The maximum value is 255;
 
-Since each industry/domain has various amounts of knowledge classifications, only the first three levels are required in the numbering and the last two levels are optional. For example,"Judaism" is coded as 120. Historically Judaism has not had many branches and its teachings are relatively complete and unified so it has no XY levels.
+Since each Discipline/Domain has various amounts of knowledge classifications, only the first three levels are required in the numbering and the last two levels are optional. For example,"Judaism" is coded as 120. Historically Judaism has not had many branches and its teachings are relatively complete and unified so it has no XY levels.
 
 The corresponding relationship of HKC coding architecture: 
-![](https://ar-io.net/nVBgLKQZZzNL97fdrq5MIBfR0o-gEy8XA5URaFttSPM)
+![](https://arweave.net/CAerNU5MEXdOCmNauO-4r07RrCy0wPyGbOMhuffXNO0)
 
 
 ## 5 HKC Scope of Use
@@ -234,9 +234,7 @@ Due to its high expandability, HKC can not only classify traditional books in li
 
 **Recommended reading**
 
-[1] Introduction to Domain Knowledge: https://zhishi.io/resources/Introduction-to-Domain-Knowledge-2jElmrt
-
-[2] Introduction to KCMM: https://zhishi.io/resources/Introduction-to-KCMM-Goo1waE
+Introduction to Domain Knowledge: [https://zhishi.io/articles/dtnDKwlge2jElmrt](https://zhishi.io/articles/dtnDKwlge2jElmrt)
 
 
 **References**
